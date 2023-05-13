@@ -33,13 +33,13 @@ While this script is designed to help recover deleted wallet.dat files, success 
 
 ## The Challenge of the Empty Wallet
 
-In the grand tradition of open source projects, here's the Bitcoin address to which you will absolutely, positively, not send a single Satoshi: bc1p8r56wjyv5cpzvr7m7mghx593eg4tz32x647v3n5z5pap4lhd9rjq7der76
+In the grand tradition of open source projects, here's the Bitcoin address to which you will absolutely, positively, not send a single Satoshi: `bc1p8r56wjyv5cpzvr7m7mghx593eg4tz32x647v3n5z5pap4lhd9rjq7der76`
 
 
 This is the wallet that will remain as empty as a programmer's coffee cup at 3 AM, despite the fact that this tool just helped you recover enough Bitcoin to buy a small island.
 
 I know how it goes: you'd have promised your firstborn and a 10% finder's fee to get those coins back. But now that you've got them, suddenly you've developed amnesia, right?
 
-So here it is, the world's loneliest Bitcoin wallet, destined to be as forgotten as a semicolon in JavaScript: bc1p8r56wjyv5cpzvr7m7mghx593eg4tz32x647v3n5z5pap4lhd9rjq7der76
+So here it is, the world's loneliest Bitcoin wallet, destined to be as forgotten as a semicolon in JavaScript: `bc1p8r56wjyv5cpzvr7m7mghx593eg4tz32x647v3n5z5pap4lhd9rjq7der76`
 
 Go ahead, prove me wrong. Make my day.
