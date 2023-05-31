@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# reciver deleted wallet.dat from a disk image
+# recover deleted wallet.dat from a disk image
 # Made in conversation with ChatGPT / GPT-4
 # 2023-05-12 tzatko
 #
